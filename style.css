@@ -1,0 +1,124 @@
+*{
+    border: 0;
+}
+p{
+    margin: 0;
+}
+.email{
+    text-align: center;
+    padding:11px;
+    margin:16px;
+}
+.check{
+    color: black;
+    text-align: center;
+}
+.describe{
+    color: black;
+    text-align: center;
+}
+.Email-box{
+    width: 37%;
+    margin: auto;
+    padding: 35px;
+    border: 1px solid black;
+}
+.btn{
+    text-align: end;
+    margin: -15px;
+
+}
+/* index1.html */
+.Msg{
+    text-align: center;
+    padding-bottom: -4px;
+}
+.Message_Box h1{
+    text-align: center;
+    color: black;
+    margin-top: -24px;
+    margin-bottom: 20px;
+}
+.desc{
+    text-align: center;
+    border: 3px solid blue;
+    width: 70%;
+    /* margin-left: 436px; */
+    margin: auto;
+    padding-bottom: 14px;
+}
+.btm{
+    text-align: center;
+    color:darkmagenta;
+    padding-top: 10px;
+    padding-bottom: 12px;
+}
+.Message_Box{
+    width: 40%;
+    border:2px solid black;
+    border-radius: 10px;
+    margin: auto;
+}
+.icon{
+    /* margin-left: 88px; */
+}
+/* index2.html */
+.Alert-img{
+    text-align: center;
+}
+.Alert-Box h3{
+    text-align: center;
+    color: purple;
+}
+.body{
+    text-align: center;
+    color: black;
+}
+.alert-btn{
+    text-align: center;
+    padding-top: 13px;
+    padding-bottom: 15px;
+}
+.alert-btn .yes{
+    background-color: darkviolet;
+    transition: all 0.5ms;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 70px;
+}
+.yes:hover{
+    background-color: rgb(135, 83, 158);
+}
+.alert-btn .no{
+    background-color: darkviolet;
+    transition: all o.5ms;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 70px;
+} 
+.no:hover{
+    background-color: rgb(145, 94, 166);
+}
+.Alert-Box{
+    width: 40%;
+    margin: auto;
+    border: 1px solid black;
+}
+/* index3.html */
+.Profile-Box h2{
+    color: black;
+    margin: 0;
+    border-bottom: 1px solid black;
+    padding-bottom: 15px;
+}
+.Profile-Box p{
+    color: black;
+    border: 1px solid black;
+    border-radius: 6px;
+    padding: 16px 30px;
+    margin-top: 30px;
+}
+/* index5.html */
+.lft-list ul{
+    list-style-image:url('Vector\ 62.png');
+}
